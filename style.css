@@ -1,0 +1,12 @@
+body>div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} 
+
+button {
+  background: red;
+  padding: 24px;
+}
